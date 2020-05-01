@@ -1,5 +1,5 @@
 # UMich EECS 545 Winter 2020 Project: Camera Relocalization using PoseNet on TUM Dataset.
-Exploring localization task on TMU dataset.
+Exploring localization task on TMU dataset
 
 __NOTE: This repository is a modified from Apolloscape dataset for localization task.__
 
